@@ -83,9 +83,9 @@ Execute and complete task	06/05/24 - 31/05/24
 Towards Project closure	03/06/24 - 25/06/24
 
 ## Links to materials for respective tasks:
-- [TASK1](Resources/Task_1.md)
-- [TASK2](Resources/Task_2.md)
-- [TASK3](Resources/Task_3.md)
+- [TASK1](Resources/TASK_1.md)
+- [TASK2](Resources/TASK_2.md)
+- [TASK3](Resources/TASK_3.md)
 
 ## Implementations Links
 - [Implementations Links](Resources/Implementations_Links.md)
