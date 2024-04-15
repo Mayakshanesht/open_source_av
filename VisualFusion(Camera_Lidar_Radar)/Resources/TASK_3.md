@@ -9,6 +9,8 @@ Review paper
 1. [Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection](papers/Wang_Bi-LRFusion_Bi-Directional_LiDAR-Radar_Fusion_for_3D_Dynamic_Object_Detection_CVPR_2023_paper.pdf)
 2. [Radar and Camera Early Fusion for Vehicle Detection in Advanced Driver Assistance Systems](papers/Radar%20and%20Camera%20Early%20Fusion%20for%20Vehicle%20Detection%20in%20Advanced%20Driver%20Assistance%20Systems.pdf)
 3. [Surrounding Objects Detection and Tracking for Autonomous Driving Using LiDAR and Radar Fusion](papers/s10033-021-00630-y.pdf)
+4. [Object detection lidar and camera](papers/Fusion%20of%203D%20LIDAR%20and%20Camera%20Data%20for%20Object%20Detection%20in%20Autono%20(1).pdf)
+5. [A survey of LiDAR and camera fusion enhancement](papers/1-s2.0-S1877050921005767-main.pdf)
 
 ## PS
 After reading he paper please make a note of the following points:
