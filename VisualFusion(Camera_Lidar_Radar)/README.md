@@ -74,10 +74,10 @@ Execute and complete task	06/05/24 - 31/05/24
 
 Towards Project closure	03/06/24 - 25/06/24
 
-## Links to materials for respective tasks:
-- [TASK1](Resources/TASK_1.md)
-- [TASK2](Resources/TASK_2.md)
-- [TASK3](Resources/TASK_3.md)
+## Tasks:
+- [TASK 1: Git clone repository](Resources/TASK_1.md)
+- [TASK 2: Understanding Basics of Sensors](Resources/TASK_2.md) (Done)
+- [TASK 3: Paper Reading](Resources/TASK_3.md) (In Progress)
 
 ## Implementations Links
 - [Implementations Links](Resources/Implementations_Links.md)
