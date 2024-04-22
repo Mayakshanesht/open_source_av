@@ -28,8 +28,7 @@ Kindly be a part of one of the groups, and find papers on the topics.
 
 1. [Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection](papers/Wang_Bi-LRFusion_Bi-Directional_LiDAR-Radar_Fusion_for_3D_Dynamic_Object_Detection_CVPR_2023_paper.pdf)
 2. [Surrounding Objects Detection and Tracking for Autonomous Driving Using LiDAR and Radar Fusion](papers/s10033-021-00630-y.pdf)
-3. [Ego-Motion Estimation and Dynamic Motion Separation from 3D Point
-Clouds for Accumulating Data and Improving 3D Object Detection](https://arxiv.org/pdf/2308.15357.pdf)
+3. [Ego-Motion Estimation and Dynamic Motion Separation from 3D Point](https://arxiv.org/pdf/2308.15357.pdf)
 
 ## PS
 After reading he paper kindly add the details to the sheet shared by Tarun.
