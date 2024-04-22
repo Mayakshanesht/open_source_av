@@ -20,7 +20,7 @@
 | 5 |Mayank Thakur               | ![#c5f015](https://placehold.co/15/green/green) | ! | 13 |Sai Tarun                  | ![#1589F0](https://placehold.co/15/blue/blue)   | ! |  21 | Krishna Teja               | ![#1589F0](https://placehold.co/15/blue/blue)  |
 | 6 |Abhishek Thakur             | ![#c5f015](https://placehold.co/15/green/green) | ! | 14 |Anand Kumar                | ![#1589F0](https://placehold.co/15/blue/blue)   | ! |  22 | Aaqib Mahamood             | ![#1589F0](https://placehold.co/15/blue/blue)  |
 | 7 |Sundar                      | ![#c5f015](https://placehold.co/15/green/green) | ! | 15 |A S K Anirudh              | ![#1589F0](https://placehold.co/15/blue/blue)   | ! |  23 | Maverick                   | ![#1589F0](https://placehold.co/15/blue/blue)  |
-| 8 |Arpit                       | ![#c5f015](https://placehold.co/15/green/green) | ! | 16 |Ashutosh Sahu              | ![#1589F0](https://placehold.co/15/blue/blue)   | ! |
+| 8 |Arpit                       | ![#c5f015](https://placehold.co/15/green/green) | ! | 16 |Ashutosh Sahu              | ![#1589F0](https://placehold.co/15/blue/blue)   | ! |  22 | Palash                     | ![#1589F0](https://placehold.co/15/blue/blue)  |
 
 ### Legends
 |Name                        | Expert Level                                    |
