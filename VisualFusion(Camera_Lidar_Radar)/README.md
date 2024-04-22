@@ -32,7 +32,8 @@
 19.	George Sebastian - ![#1589F0](https://placehold.co/15/blue/blue)
 20.	Krishna Teja - ![#1589F0](https://placehold.co/15/blue/blue)
 21.	Aaqib Mahamood - ![#1589F0](https://placehold.co/15/blue/blue) 
-22.	Maverick - ![#1589F0](https://placehold.co/15/blue/blue) 
+22.	Maverick - ![#1589F0](https://placehold.co/15/blue/blue)
+23.	Palash - ![#1589F0](https://placehold.co/15/blue/blue)
 
 ### Legends
 ![#f03c15](https://placehold.co/15/red/red) Expert
