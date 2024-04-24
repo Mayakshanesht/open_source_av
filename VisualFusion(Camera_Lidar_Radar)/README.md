@@ -50,7 +50,7 @@ Detailed map of all the elements team needs to accomplish to reach project’s g
 |-------------------------------------|:-------------------------------:|:-------------------------------------:|
 |Team Formation                       | 14/04/2024                      | Done                                  |
 |Git clone  repository                | < 05/05/24                      | In Progress                           |
-|Understanding Basics of Sensors      | 14/04/24> **Week1** < 19/04/24  | Done - [Updates](#1-kick-off-meeting) |
+|Understanding Basics of Sensors      | 14/04/24> **Week1** < 19/04/24  | Done - [Updates](#1-kick-off-meeting-20th-april-2024) |
 |Reading Research Papers              | 22/04/24> **Week2** <26/04/24   | In Progress                           |
 |Literature Review from Papers        | 29/04/24> **Week3** <3/05/24    |                                       |
 |Developing Abstract and Architecture |	29/04/24> **Week3** <3/05/24    |                                       |
