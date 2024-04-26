@@ -20,7 +20,7 @@ Kindly be a part of one of the groups, and find papers on the topics.
 ## Group1: Lidar-Camera 
 1. [Object detection lidar and camera](papers/Fusion%20of%203D%20LIDAR%20and%20Camera%20Data%20for%20Object%20Detection%20in%20Autono%20(1).pdf)
 2. [A survey of LiDAR and camera fusion enhancement](papers/1-s2.0-S1877050921005767-main.pdf)
-3. [Fusion of LiDAR and camera sensor data for environment sensing in driverless vehicles](papers/Fusion_DeSilva_Double_Col.pdf)
+3. [Fusion of LiDAR and camera sensor data for environment sensing in driverless vehicles](papers/Fusion_DeSilva_Double_Col.pdf)(Nawin Reading)
 4. [Lidar-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks](papers/LIDAR-Camera_Fusion_for_Road_Detection.pdf) (Milind reading)
 
 ## Group2: Radar-Camera
