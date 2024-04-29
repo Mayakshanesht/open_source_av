@@ -1,6 +1,7 @@
-# open_source_av
-A repository to host the open source projects for Autonomous Driving research whatsapp group
-Community Creator: Mayur Waghchoure
+# Open Sourced AV Software
+A repository to host the open source projects for Autonomous Driving research group.
+
+Community Creator: Mayur Waghchoure and friends
 
 ## RULES:
 - All the Members are encouraged to equally contribute to the projects.
