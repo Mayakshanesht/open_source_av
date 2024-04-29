@@ -1,11 +1,17 @@
 # open_source_av
 A repository to host the open source projects for Autonomous Driving research whatsapp group
+Community Creator: Mayur Waghchoure
 
-I am hoping all our projects would fit together as a jigsaw puzzle to get the autonomous driving capable code:
-# Track A. First visual/sensor fusion + Semantic BEV + detection + tracking + motion prediction to get the current tracks and future trajectories
-# Track B. Semantic SLAM, 3D mapping, and Localization or point cloud project to localize the object and to get the map
-# Track C. Then path planning would jump in and then controls
-# Track D projects: DBW, Motor controls and Simulation based testing
+
+I am hoping all our projects would fit together as a jigsaw puzzle to get the autonomous driving capable software
+# Track A
+First visual/sensor fusion + Semantic BEV + detection + tracking + motion prediction to get the current tracks and future trajectories
+# Track B 
+Semantic SLAM, 3D mapping, and Localization or point cloud project to localize the object and to get the map
+# Track C 
+Then path planning would jump in and then controls
+# Track D
+DBW, Motor controls and Simulation based testing
 
 # Projects
 
